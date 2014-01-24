@@ -1,0 +1,42 @@
+.jumbotron{
+	background: url(../img/leppy.png) center center;
+}
+.look{
+	height: 667px;
+}
+.crcl{
+	display: block;
+	height: 240px;
+	width: 240px;
+	border-radius: 800px;
+	border: 3px white solid;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	float: right;
+}
+ul li{
+	display: inline;
+}
+nav a {
+	display: inline-block;
+	margin: 15px 25px;
+	outline: none;
+	color: #cccccc;
+	text-decoration: none;
+	letter-spacing: 0.5px;
+	font-weight: 400;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 20px;
+}
+nav a:hover{
+	text-decoration: none;
+	color: #999999;
+	}
+.past-main {
+    background-color: #330066;
+    color: gray;
+    opacity: 0.5;
+}
